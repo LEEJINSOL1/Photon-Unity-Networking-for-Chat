@@ -7,6 +7,7 @@ PUN 기본적으로 Unity가 지원하는 모든 플랫폼으로 엑스포트되
 # 결과물
 
 <img src ="https://user-images.githubusercontent.com/49275914/173189573-edc62a63-3ff5-4cad-bc12-6fe03b201267.jpg"/>
+
 # 시작하기
 1. https://www.photonengine.com/server 에 접속하여 CREATE A NEW Application(Photon Type은 반드시 PUN으로 설정)
 
