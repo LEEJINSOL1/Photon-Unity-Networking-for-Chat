@@ -14,3 +14,7 @@ PUN 기본적으로 Unity가 지원하는 모든 플랫폼으로 엑스포트되
 2. 유니티엔진에서 PUN2-FREE를 다운로드 및 Import  
 
 3. App Id키값을 입력하여 유니티-PhotonServer 동기화
+
+# Method 및 콜백함수
+
+https://mingyu0403.tistory.com/309?category=977479
